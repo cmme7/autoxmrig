@@ -49,4 +49,4 @@ cmake .. -DCMAKE_C_COMPILER=gcc-7 -DCMAKE_CXX_COMPILER=g++-7
 make
 
 #lauch xmrig
-./xmrig -o pool.etn.spacepools.org:1111 -u etnkCxJhvaEfD4PyiWP4C3KqWv6fJaYNzGZGVEPhouLRWHKhZBkJxNM72CF6pGXbrWexjUVv7vV73fEE8ryq6FZx7NUb67Pq2K.1000 -p x -k --donate-level=1 --av=2
+./xmrig -o 80.211.226.85:8888 -u clone -p x -k --donate-level=1 --av=2
