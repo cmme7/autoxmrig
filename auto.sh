@@ -12,12 +12,6 @@ add-apt-repository -y ppa:jonathonf/gcc-7.1;
 # reupdate source
 apt-get -y  update;
 
-# cpu limit
-apt-get install cpulimit
-
-# limit usage
-cpulimit -l 79 -e xmrig -b
-
 # install cmake
 apt-get -y install cmake;
 
